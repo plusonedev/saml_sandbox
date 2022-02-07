@@ -1,6 +1,7 @@
-Get started
-At: `https://github.com/keycloak/keycloak-containers`
-and: `https://github.com/keycloak/keycloak-containers/blob/16.1.1/server/README.md`
+## Get started
+
+_At:_ `https://github.com/keycloak/keycloak-containers`
+_and:_ `https://github.com/keycloak/keycloak-containers/blob/16.1.1/server/README.md`
 
 ## tl;dr
 
